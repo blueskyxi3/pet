@@ -1,0 +1,8 @@
+{
+  "name": "Pawfect Match - 萌宠之家",
+  "description": "Pawfect Match 是一个现代化的宠物商店应用，提供宠物浏览、智能选宠咨询、专业养宠建议以及便捷的购物车功能。集成 Gemini AI 为您提供 7x24 小时的个性化选宠助手。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
